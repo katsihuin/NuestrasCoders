@@ -17,6 +17,10 @@
 	background-color: black;
 }
 
+img {
+	outline: 10px solid white;
+}
+
 span{
 	color: white;
 	font-size: 14px;
